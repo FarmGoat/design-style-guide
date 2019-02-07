@@ -1,2 +1,1 @@
-# design-style-guide
-Design Style Guide
+# Design Style Guide
