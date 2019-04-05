@@ -77,3 +77,8 @@ html, body {
 .box-warning {
   background-color: #FFAA15;
 }
+
+.responsive-image {
+  max-width: 100%;
+  height: auto;
+}
